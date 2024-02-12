@@ -1,6 +1,6 @@
-# home-task-fe
+# saucedemo
 
-home-task-fe is a automation testing frameework to test the knowledge of automation testing
+saucedemo is a automation testing frameework to test the knowledge of automation testing
 
 ## Installation
 
