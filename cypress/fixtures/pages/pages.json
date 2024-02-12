@@ -1,0 +1,30 @@
+{
+  "Common": {
+    "Buttons": {
+      "Login": {
+        "CSS": "[type='submit']"
+      },
+      "Menu": {
+        "CSS": "[id='react-burger-menu-btn']"
+      },
+      "Logout": {
+        "CSS": "[id='logout_sidebar_link']"
+      }
+    },
+    "Fields": {
+      "Username": {
+        "CSS": "[data-test='username']"
+      },
+      "Password": {
+        "CSS": "[data-test='password']"
+      }
+    },
+    "Selects": {}
+  },
+
+  "Home": {
+    "Path": "https://www.saucedemo.com/",
+    "Buttons": {},
+    "Fields": {}
+  }
+}
